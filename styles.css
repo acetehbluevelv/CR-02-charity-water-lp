@@ -161,10 +161,11 @@ section {
   }
 
   /* Make story and call-to-action sections have less padding */
+  /*I shrunk the padding by half*/
   .story,
   .call-to-action,
   .donation-section {
-    padding: 14px 8px;
+    padding: 7px 4px;
   }
 
   /* Make impact story image smaller and stack above the text */
